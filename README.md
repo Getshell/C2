@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
-本项目创建于2021年8月19日，最近的一次更新时间为2021年8月19日。
+本项目创建于2021年8月19日，最近的一次更新时间为2021年8月20日。
 
 - [0x01-C2资源]()
 - [0x02-C2工具]()
@@ -106,6 +106,7 @@
 - [ ] https://github.com/quasar/Quasar
 - [ ] https://github.com/fozavci/petaqc2
 - [ ] https://github.com/Raffy27/OrionPanel
+- [ ] https://github.com/uvzz/IERat
 
 六、C++开发
 - [ ] https://github.com/FSecureLABS/C3
@@ -151,4 +152,5 @@
 - https://www.varonis.com/blog/what-is-c2
 - https://www.thec2matrix.com/matrix
 - https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0
+- https://awesomeopensource.com/projects/c2
 
