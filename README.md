@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
-本项目创建于2021年8月19日，最近的一次更新时间为2021年8月20日。
+本项目创建于2021年8月19日，最近的一次更新时间为2021年8月21日。
 
 - [0x01-C2资源]()
 - [0x02-C2工具]()
@@ -23,6 +23,12 @@
 三、其他资源
 - [ ] https://github.com/ProfessionallyEvil/C4
 
+九、思考备注
+
+- C2是什么？远控是什么？流量隧道是什么？C2=远控+流量隧道？
+- 优秀的C2是什么？
+- Webshell管理工具算不算C2？可以执行命令的就算？
+
 ## 0x02-C2工具
 
 - https://github.com/topics/c2
@@ -32,7 +38,7 @@
 - https://github.com/search?q=C2+frameworks
 
 一、优秀工具
-- [ ] https://www.cobaltstrike.com
+- [ ] https://github.com/Cobalt-Strike
 - [ ] https://github.com/rapid7/metasploit-framework
 - [ ] https://github.com/FunnyWolf/Viper
 - [ ] https://github.com/0x727/MetasploitCoop_0x727
@@ -107,6 +113,7 @@
 - [ ] https://github.com/fozavci/petaqc2
 - [ ] https://github.com/Raffy27/OrionPanel
 - [ ] https://github.com/uvzz/IERat
+- [ ] https://github.com/qwqdanchun/DcRat
 
 六、C++开发
 - [ ] https://github.com/FSecureLABS/C3
