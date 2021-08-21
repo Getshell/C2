@@ -99,6 +99,9 @@
 - [ ] https://github.com/PushpenderIndia/nekros
 - [ ] https://github.com/MythicAgents/venus
 - [ ] https://github.com/tanc7/dark-lord-obama
+- [ ] https://github.com/MythicAgents/Medusa
+- [ ] https://github.com/MythicAgents/merlin
+- [ ] https://github.com/MythicAgents/venus
 
 四、Java开发
 - [ ] https://github.com/LSTS/neptus
