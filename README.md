@@ -1,4 +1,4 @@
-# 《C2-远程控制的艺术》
+# 《C2：下一代RAT》
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
@@ -32,11 +32,12 @@
 ## 0x02-C2工具
 
 - https://github.com/topics/c2
-- https://github.com/topics/rat
 - https://github.com/search?q=Command+and+Control
 - https://github.com/topics/command-and-control
-- https://github.com/alphaSeclab/awesome-rat
 - https://github.com/search?q=C2+frameworks
+- https://github.com/topics/rat
+- https://github.com/search?q=RAT
+- https://github.com/alphaSeclab/awesome-rat
 
 一、优秀工具
 - [ ] https://github.com/Cobalt-Strike
@@ -45,6 +46,7 @@
 - [ ] https://github.com/0x727/MetasploitCoop_0x727
 
 二、Go开发
+
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/Ne0nd0g/merlin-agent
 - [ ] https://github.com/EngineerBetter/control-tower
@@ -65,6 +67,7 @@
 - [ ] https://github.com/angus-y/PyIris-backdoor
 - [ ] https://github.com/aminaxx/bossbash
 - [ ] https://github.com/geemion/Khepri
+- [ ] https://github.com/elleven11/pantegana
 
 三、Python开发
 - [ ] https://github.com/its-a-feature/Mythic
