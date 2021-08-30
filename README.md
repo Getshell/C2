@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
-本项目创建于2021年8月19日，最近的一次更新时间为2021年8月25日。
+本项目创建于2021年8月19日，最近的一次更新时间为2021年8月30日。
 
 - [0x01-C2资源]()
 - [0x02-C2工具]()
@@ -151,6 +151,7 @@
 - [ ] https://github.com/jephthai/EvilVM
 - [ ] https://github.com/KINGSABRI/chkdfront
 - [ ] https://github.com/Raffy27/OrionBot
+- [ ] https://github.com/MisterTea/EternalTerminal
 
 ## 0x03-C2免杀
 
