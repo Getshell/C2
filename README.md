@@ -22,6 +22,7 @@
 
 三、其他资源
 - [ ] https://github.com/ProfessionallyEvil/C4
+- [ ] https://github.com/JAYMONSECURITY/JMSec-Agent-RTO
 
 九、思考备注
 
@@ -153,6 +154,7 @@
 - [ ] https://github.com/Raffy27/OrionBot
 - [ ] https://github.com/MisterTea/EternalTerminal
 - [ ] https://github.com/sneakerhax/C2PE
+- [ ] https://github.com/0x727/SchTask_0x727
 
 ## 0x03-C2免杀
 
