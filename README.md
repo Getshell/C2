@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
-本项目创建于2021年8月19日，最近的一次更新时间为2021年8月31日。
+本项目创建于2021年8月19日，最近的一次更新时间为2021年9月1日。
 
 - [0x01-C2资源]()
 - [0x02-C2工具]()
@@ -69,6 +69,7 @@
 - [ ] https://github.com/aminaxx/bossbash
 - [ ] https://github.com/geemion/Khepri
 - [ ] https://github.com/elleven11/pantegana
+- [ ] https://github.com/maxlandon/wiregost
 
 三、Python开发
 - [ ] https://github.com/its-a-feature/Mythic
@@ -109,6 +110,7 @@
 - [ ] https://github.com/MythicAgents/merlin
 - [ ] https://github.com/MythicAgents/venus
 - [ ] https://github.com/NullCode13/NullRAT
+- [ ] https://github.com/Ba-hub/GhostRat
 
 四、Java开发
 - [ ] https://github.com/LSTS/neptus
@@ -155,6 +157,7 @@
 - [ ] https://github.com/MisterTea/EternalTerminal
 - [ ] https://github.com/sneakerhax/C2PE
 - [ ] https://github.com/0x727/SchTask_0x727
+- [ ] https://github.com/enkomio/AlanFramework
 
 ## 0x03-C2免杀
 
