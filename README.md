@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
-本项目创建于2021年8月19日，最近的一次更新时间为2021年9月8日。
+本项目创建于2021年8月19日，最近的一次更新时间为2021年9月18日。
 
 - [0x01-C2资源]()
 - [0x02-C2工具]()
@@ -47,7 +47,6 @@
 - [ ] https://github.com/0x727/MetasploitCoop_0x727
 
 二、Go开发
-
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/Ne0nd0g/merlin-agent
 - [ ] https://github.com/EngineerBetter/control-tower
@@ -70,6 +69,10 @@
 - [ ] https://github.com/geemion/Khepri
 - [ ] https://github.com/elleven11/pantegana
 - [ ] https://github.com/maxlandon/wiregost
+- [ ] https://github.com/CMatri/MeetC2
+- [ ] https://github.com/phil-fly/generate
+- [ ] https://github.com/msoap/shell2http
+- [ ] https://github.com/Maka8ka/NGLite
 
 三、Python开发
 - [ ] https://github.com/its-a-feature/Mythic
