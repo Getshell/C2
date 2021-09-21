@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
-本项目创建于2021年8月19日，最近的一次更新时间为2021年9月19日。
+本项目创建于2021年8月19日，最近的一次更新时间为2021年9月20日。
 
 - [0x01-C2资源]()
 - [0x02-C2工具]()
@@ -94,7 +94,6 @@
 - [ ] https://github.com/Telefonica/ibombshell
 - [ ] https://github.com/zerosum0x0/koadic
 - [ ] https://github.com/Marten4n6/EvilOSX
-- [ ] https://github.com/p3nt4/Nuages
 - [ ] https://github.com/mhaskar/Octopus
 - [ ] https://github.com/AdrianVollmer/PowerHub
 - [ ] https://github.com/slyd0g/SK8PARK
@@ -164,6 +163,7 @@
 - [ ] https://github.com/sneakerhax/C2PE
 - [ ] https://github.com/0x727/SchTask_0x727
 - [ ] https://github.com/enkomio/AlanFramework
+- [ ] https://github.com/preludeorg/community
 
 ## 0x03-C2免杀
 
