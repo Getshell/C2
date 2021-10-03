@@ -48,6 +48,8 @@
 - [ ] https://github.com/0x727/MetasploitCoop_0x727
 
 二、Go开发
+- [x] https://github.com/TerminalJockey/Kudzu
+- [x] https://github.com/njcx/gocmd
 - [ ] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/Ne0nd0g/merlin-agent
 - [ ] https://github.com/EngineerBetter/control-tower
