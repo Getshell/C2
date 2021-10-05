@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
-本项目创建于2021年8月19日，最近的一次更新时间为2021年10月4日。
+本项目创建于2021年8月19日，最近的一次更新时间为2021年10月5日。
 
 - [0x01-C2资源]()
 - [0x02-C2工具]()
@@ -122,6 +122,8 @@
 - [ ] https://github.com/gl4ssesbo1/Nebula
 - [ ] https://github.com/reveng007/C2_Server
 - [ ] https://github.com/alysif/SimpleRAT
+- [ ] https://github.com/bigb0sss/kurosaki-C2
+- [ ] https://github.com/FortyNorthSecurity/C2concealer
 
 四、Java开发
 - [ ] https://github.com/LSTS/neptus
