@@ -124,6 +124,7 @@
 - [ ] https://github.com/alysif/SimpleRAT
 - [ ] https://github.com/bigb0sss/kurosaki-C2
 - [ ] https://github.com/FortyNorthSecurity/C2concealer
+- [ ] https://github.com/Ph3nX-Z/WebShell-C2
 
 四、Java开发
 - [ ] https://github.com/LSTS/neptus
