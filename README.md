@@ -77,6 +77,7 @@
 - [ ] https://github.com/msoap/shell2http
 - [ ] https://github.com/Maka8ka/NGLite
 - [ ] https://github.com/veo/vshell
+- [ ] https://github.com/kgretzky/evilginx2
 
 三、Python开发
 - [ ] https://github.com/its-a-feature/Mythic
