@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
-本项目创建于2021年8月19日，最近的一次更新时间为2021年12月23日。
+本项目创建于2021年8月19日，最近的一次更新时间为2021年12月26日。
 
 - [0x01-C2资源]()
 - [0x02-C2工具]()
@@ -86,6 +86,7 @@
 - [ ] https://github.com/sairson/SecShell
 - [ ] https://github.com/fcre1938/Ortau
 - [ ] https://github.com/jm33-m0/emp3r0r
+- [ ] https://github.com/ssut/payload-dumper-go
 
 三、Python开发
 - [ ] https://github.com/its-a-feature/Mythic
@@ -140,6 +141,7 @@
 - [ ] https://github.com/wavestone-cdt/abaddon
 - [ ] https://github.com/hash3liZer/SillyRAT
 - [ ] https://github.com/lapolis/palinka_c2
+- [ ] https://github.com/mycve/TerminalController
 
 四、Java开发
 - [ ] https://github.com/LSTS/neptus
