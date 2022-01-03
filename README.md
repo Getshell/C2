@@ -167,6 +167,7 @@
 - [ ] https://github.com/sysrom/DcRatCHS
 - [ ] https://github.com/A-D-Team/SharpMemshell
 - [ ] https://github.com/void-stack/Orcus-1.9.1-src
+- [ ] https://github.com/FULLSHADE/WARFOX-C2
 
 六、C++开发
 - [ ] https://github.com/FSecureLABS/C3
