@@ -89,6 +89,7 @@
 - [ ] https://github.com/ssut/payload-dumper-go
 - [ ] https://github.com/webxscan/linux_rat
 - [ ] https://github.com/0x1a8510f2/wraith
+- [ ] https://github.com/FrenchCisco/RATel
 
 三、Python开发
 - [ ] https://github.com/its-a-feature/Mythic
