@@ -2,15 +2,15 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。
 
-本项目创建于2021年8月19日，最近的一次更新时间为2022年1月24日。
+本项目创建于2021年8月19日，最近的一次更新时间为2022年2月10日。
 
-- [0x01-C2资源]()
-- [0x02-C2工具]()
-- [0x03-C2免杀]()
-- [0x04-C2开发]()
-- [0x05-C2未来]()
+- [01-C2资源]()
+- [02-C2工具]()
+- [03-C2免杀]()
+- [04-C2开发]()
+- [05-C2未来]()
 
-## 0x01-C2资源
+## 01-C2资源
 
 - https://github.com/tcostam/awesome-command-control
 - https://github.com/Ignitetechnologies/Command-Control
@@ -31,7 +31,7 @@
 - 优秀的C2是什么？
 - Webshell管理工具算不算C2？可以执行命令的就算？
 
-## 0x02-C2工具
+## 02-C2工具
 
 - https://github.com/topics/c2
 - https://github.com/search?q=Command+and+Control
@@ -210,14 +210,15 @@
 - [ ] https://github.com/enkomio/AlanFramework
 - [ ] https://github.com/preludeorg/community
 - [ ] https://github.com/Arno0x/DBC2
+- [ ] https://github.com/lcvvvv/backway
 
-## 0x03-C2免杀
+## 03-C2免杀
 
-## 0x04-C2开发
+## 04-C2开发
 
-## 0x05-C2未来
+## 05-C2未来
 
-## 0x06-C2参考
+## 06-C2参考
 
 - https://thestack.technology/from-c2-to-c3
 - https://www.foregenix.com/blog/a-first-look-at-todays-command-and-control-frameworks
