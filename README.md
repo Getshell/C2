@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月19日，最近的一次更新时间为2022年2月28日。
+本项目创建于2021年8月19日，最近的一次更新时间为2022年3月20日。
 
 - [01-C2资源]()
 - [02-C2工具]()
@@ -95,6 +95,8 @@
 - [ ] https://github.com/mosajjal/dnspot
 - [ ] https://github.com/kensh1ro/Willie-C2
 - [ ] https://github.com/TRYblog/C2_Demo
+- [ ] https://github.com/jkstack/natpass
+- [ ] https://github.com/hudangwei/natpass
 
 三、Python开发
 - [ ] https://github.com/its-a-feature/Mythic
@@ -177,6 +179,7 @@
 - [ ] https://github.com/A-D-Team/SharpMemshell
 - [ ] https://github.com/void-stack/Orcus-1.9.1-src
 - [ ] https://github.com/FULLSHADE/WARFOX-C2
+- [ ] https://github.com/antonioCoco/ConPtyShell
 
 六、C++开发
 - [ ] https://github.com/FSecureLABS/C3
