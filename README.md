@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！不想拿到控制权限的黑客不是好黑客。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月19日，最近的一次更新时间为2022年4月28日。
+本项目创建于2021年8月19日，最近的一次更新时间为2022年5月3日。
 
 - [01-C2资源]()
 - [02-C2工具]()
@@ -208,7 +208,10 @@
 - [ ] https://github.com/Raffy27/OrionServer
 - [ ] https://github.com/JoelGMSec/PSRansom
 
-十、其他语言
+十、Nim语言
+- [ ] https://github.com/d4rckh/nimc2
+
+十一、其他语言
 - [ ] https://github.com/Project-Prismatica/Prismatica
 - [ ] https://github.com/jephthai/EvilVM
 - [ ] https://github.com/KINGSABRI/chkdfront
