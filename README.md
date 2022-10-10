@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！免杀是C2的灵魂！不想拿到控制权限的黑客不是好黑客。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月19日，最近的一次更新时间为2022年10月3日。
+本项目创建于2021年8月19日，最近的一次更新时间为2022年10月10日。
 
 - [01-C2资源]()
 - [02-C2工具]()
@@ -56,7 +56,6 @@
 - [x] https://github.com/njcx/gocmd
 - [x] https://github.com/BishopFox/sliver
 - [ ] https://github.com/Ne0nd0g/merlin
-- [ ] https://github.com/HavocFramework/Havoc
 - [ ] https://github.com/Ne0nd0g/merlin-agent
 - [ ] https://github.com/EngineerBetter/control-tower
 - [ ] https://github.com/activecm/rita
@@ -110,6 +109,7 @@
 - [ ] https://github.com/BradHacker/titan
 - [ ] https://github.com/YDHCUI/manjusaka
 - [ ] https://github.com/D00Movenok/goMalleable
+- [ ] https://github.com/Ptkatz/OrcaC2
 
 三、Python开发
 - [ ] https://github.com/its-a-feature/Mythic
