@@ -2,7 +2,7 @@
 
 本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！免杀是C2的灵魂！不想拿到控制权限的黑客不是好黑客。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月19日，最近的一次更新时间为2022年10月10日。
+本项目创建于2021年8月19日，最近的一次更新时间为2022年10月14日。
 
 - [01-C2资源]()
 - [02-C2工具]()
@@ -242,6 +242,7 @@
 - [ ] https://github.com/aplyc1a/NTPShell
 - [ ] https://github.com/wraith-labs/wraith-dcc2
 - [ ] https://github.com/yzddmr6/Java-Shellcode-Loader
+- [ ] https://github.com/XiaoliChan/RedCaddy
 
 ## 03-C2免杀
 
