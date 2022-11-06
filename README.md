@@ -1,14 +1,17 @@
 # C2-下一代RAT
 
-本项目用来收集整理C2工具的相关内容，包括优秀的C2工具或优秀的思路等。远控是一门古老的技术，C2是一门新兴的艺术！免杀是C2的灵魂！不想拿到控制权限的黑客不是好黑客。作者：[0e0w](https://github.com/0e0w)
+![C2](https://socialify.git.ci/Goyk/C2/image?description=1&descriptionEditable=%E3%80%8AGolang%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E5%A4%A7%E5%85%A8-%E5%8F%AA%E6%9C%89Go%E8%AF%AD%E8%A8%80%E6%89%8D%E8%83%BD%E6%94%B9%E5%8F%98%E4%B8%96%E7%95%8C%E3%80%8B&font=Bitter&forks=1&issues=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
-本项目创建于2021年8月19日，最近的一次更新时间为2022年10月28日。
+本项目用来收集整理C2的相关内容，包括优秀的C2项目代码或优秀的控制思路等。RAT是一门古老的技术，C2是下一代的RAT！不想拿到全世界控制权限的黑客不是好黑客。作者：[0e0w](https://github.com/0e0w)
 
-- [01-C2资源]()
-- [02-C2工具]()
-- [03-C2免杀]()
-- [04-C2开发]()
-- [05-C2未来]()
+本项目创建于2021年8月19日，最近的一次更新时间为2022年11月6日。
+
+- [01-C2资源](https://github.com/Goyk/C2#01-c2%E8%B5%84%E6%BA%90)
+- [02-C2原理](https://github.com/Goyk/C2#02-c2%E5%8E%9F%E7%90%86)
+- [03-C2项目](https://github.com/Goyk/C2#03-c2%E9%A1%B9%E7%9B%AE)
+- [04-C2开发](https://github.com/Goyk/C2#04-c2%E5%BC%80%E5%8F%91)
+- [05-C2免杀](https://github.com/Goyk/C2#05-c2%E5%85%8D%E6%9D%80)
+- [06-C2参考](https://github.com/Goyk/C2#06-c2%E5%8F%82%E8%80%83)
 
 ## 01-C2资源
 
@@ -24,16 +27,16 @@
 - [ ] https://github.com/ProfessionallyEvil/C4
 - [ ] https://github.com/JAYMONSECURITY/JMSec-Agent-RTO
 - [ ] https://github.com/timb-machine/linux-malware
-- [ ] https://github.com/killvxk/awesome-C2
 - [ ] https://bbs.pediy.com/thread-273930.htm
+- [ ] https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc
 
-九、思考备注
+## 02-C2原理
 
 - C2是什么？远控是什么？流量隧道是什么？C2=远控+流量隧道？
 - 优秀的C2是什么？
 - Webshell管理工具算不算C2？可以执行命令的就算？
 
-## 02-C2工具
+## 03-C2项目
 
 - https://github.com/topics/c2
 - https://github.com/search?q=Command+and+Control
@@ -43,21 +46,14 @@
 - https://github.com/search?q=RAT
 - https://github.com/alphaSeclab/awesome-rat
 - https://github.com/r3nhat/GRAT2
+- https://github.com/killvxk/awesome-C2
 
-一、优秀工具
-- [ ] https://github.com/Cobalt-Strike
-- [ ] https://github.com/rapid7/metasploit-framework
-- [ ] https://github.com/FunnyWolf/Viper
-- [ ] https://github.com/0x727/MetasploitCoop_0x727
-- [ ] https://github.com/FlyfishSec/rsGen
-- [ ] https://bruteratel.com
-
-二、Go开发
+一、Golang
 - [x] https://github.com/TerminalJockey/Kudzu
-- [x] https://github.com/njcx/gocmd
 - [x] https://github.com/BishopFox/sliver
-- [ ] https://github.com/Ne0nd0g/merlin
+- [x] https://github.com/Ne0nd0g/merlin
 - [ ] https://github.com/Ne0nd0g/merlin-agent
+- [ ] https://github.com/njcx/gocmd
 - [ ] https://github.com/EngineerBetter/control-tower
 - [ ] https://github.com/activecm/rita
 - [ ] https://github.com/DeimosC2/DeimosC2
@@ -112,8 +108,10 @@
 - [ ] https://github.com/D00Movenok/goMalleable
 - [ ] https://github.com/Ptkatz/OrcaC2
 - [ ] https://github.com/WithSecureLabs/C3
+- [ ] https://github.com/InjectionSoftwareandSecurityLLC/lupo
 
-三、Python开发
+二、Python
+- [ ] https://github.com/FunnyWolf/Viper
 - [ ] https://github.com/its-a-feature/Mythic
 - [ ] https://github.com/p3nt4/Nuages
 - [ ] https://github.com/Arno0x/WSC2
@@ -174,11 +172,13 @@
 - [ ] https://github.com/t3l3machus/hoaxshell
 - [ ] https://github.com/SaumyajeetDas/GodGenesis
 
-四、Java开发
+三、Java
+- [ ] https://github.com/Cobalt-Strike
 - [ ] https://github.com/LSTS/neptus
 - [ ] https://github.com/Ramos-dev/OSSTunnel
 
-五、C#开发
+四、C&C#&C++
+- [ ] https://github.com/4g3nt47/Striker
 - [ ] https://github.com/SharpC2/SharpC2
 - [ ] https://github.com/sf197/Telegra_Csharp_C2
 - [ ] https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
@@ -199,7 +199,6 @@
 - [ ] https://github.com/antonioCoco/ConPtyShell
 - [ ] https://github.com/Gr1mmie/AtlasC2
 
-六、C++开发
 - [ ] https://github.com/FSecureLABS/C3
 - [ ] https://github.com/monoxgas/FlyingAFalseFlag
 - [ ] https://github.com/SafeBreach-Labs/pinjectra
@@ -208,14 +207,19 @@
 - [ ] https://github.com/bigBestWay/dnstunnel
 - [ ] https://github.com/pwn1sher/uuid-loader
 
-七、Rust开发
+五、Rust
 - [ ] https://github.com/postrequest/link
 - [ ] https://github.com/b23r0/Heroinn
 
-八、PHP开发
+六、Nim
+
+- [ ] https://github.com/d4rckh/nimc2
+
+七、PHP
+
 - [ ] https://github.com/EnginDemirbilek/NorthStarC2
 
-九、Powershell开发
+八、Powershell
 - [ ] https://github.com/ahmedkhlief/Ninja
 - [ ] https://github.com/BC-SECURITY/Empire
 - [ ] https://github.com/nettitude/PoshC2
@@ -225,10 +229,9 @@
 - [ ] https://github.com/Raffy27/OrionServer
 - [ ] https://github.com/JoelGMSec/PSRansom
 
-十、Nim语言
-- [ ] https://github.com/d4rckh/nimc2
-
-十一、其他语言
+九、Other
+- [ ] https://github.com/rapid7/metasploit-framework
+- [ ] https://github.com/0x727/MetasploitCoop_0x727
 - [ ] https://github.com/Project-Prismatica/Prismatica
 - [ ] https://github.com/jephthai/EvilVM
 - [ ] https://github.com/KINGSABRI/chkdfront
@@ -246,12 +249,16 @@
 - [ ] https://github.com/wraith-labs/wraith-dcc2
 - [ ] https://github.com/yzddmr6/Java-Shellcode-Loader
 - [ ] https://github.com/XiaoliChan/RedCaddy
-
-## 03-C2免杀
+- [ ] https://github.com/FlyfishSec/rsGen
+- [ ] https://bruteratel.com
 
 ## 04-C2开发
 
-## 05-C2未来
+一、C2原理
+
+二、C2加密
+
+## 05-C2免杀
 
 ## 06-C2参考
 
@@ -262,6 +269,6 @@
 - https://threatexpress.com/blogs/2019/c2-agent-comparison
 - https://www.varonis.com/blog/what-is-c2
 - https://www.thec2matrix.com/matrix
-- https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0
 - https://awesomeopensource.com/projects/c2
 
+![Stargazers over time](https://starchart.cc//Goyk/C2.svg)](https://starchart.cc/Goyk/C2)
