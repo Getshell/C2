@@ -198,7 +198,6 @@
 - [ ] https://github.com/FULLSHADE/WARFOX-C2
 - [ ] https://github.com/antonioCoco/ConPtyShell
 - [ ] https://github.com/Gr1mmie/AtlasC2
-
 - [ ] https://github.com/FSecureLABS/C3
 - [ ] https://github.com/monoxgas/FlyingAFalseFlag
 - [ ] https://github.com/SafeBreach-Labs/pinjectra
@@ -212,11 +211,9 @@
 - [ ] https://github.com/b23r0/Heroinn
 
 六、Nim
-
 - [ ] https://github.com/d4rckh/nimc2
 
 七、PHP
-
 - [ ] https://github.com/EnginDemirbilek/NorthStarC2
 
 八、Powershell
