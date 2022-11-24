@@ -52,6 +52,7 @@
 - [x] https://github.com/TerminalJockey/Kudzu
 - [x] https://github.com/BishopFox/sliver
 - [x] https://github.com/Ne0nd0g/merlin
+- [ ] https://github.com/tiagorlampert/CHAOS
 - [ ] https://github.com/Ne0nd0g/merlin-agent
 - [ ] https://github.com/njcx/gocmd
 - [ ] https://github.com/EngineerBetter/control-tower
@@ -61,7 +62,6 @@
 - [ ] https://github.com/iimrudy/PrismaController
 - [ ] https://github.com/timwhitez/Doge-Persistence-Platform
 - [ ] https://github.com/mthbernardes/GTRS
-- [ ] https://github.com/tiagorlampert/CHAOS
 - [ ] https://github.com/sensepost/godoh
 - [ ] https://github.com/cyberark/kubesploit
 - [ ] https://github.com/lu4p/ToRat
