@@ -1,10 +1,10 @@
 # C2-下一代RAT
 
-![C2](https://socialify.git.ci/Goyk/C2/image?description=1&descriptionEditable=C2-%E4%B8%8B%E4%B8%80%E4%BB%A3RAT&font=Bitter&forks=1&issues=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![C2](https://socialify.git.ci/Goyk/C2/image?description=1&descriptionEditable=C2-Next%20RAT!&font=Bitter&forks=1&issues=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 本项目用来收集整理C2的相关内容，包括优秀的C2项目代码或优秀的控制思路等。RAT是一门古老的技术，C2是下一代的RAT！不想拿到全世界控制权限的黑客不是好黑客。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月19日，最近的一次更新时间为2022年11月8日。
+本项目创建于2021年8月19日，最近的一次更新时间为2022年11月27日。
 
 - [01-C2资源](https://github.com/Goyk/C2#01-c2%E8%B5%84%E6%BA%90)
 - [02-C2原理](https://github.com/Goyk/C2#02-c2%E5%8E%9F%E7%90%86)
@@ -269,3 +269,6 @@
 - https://www.varonis.com/blog/what-is-c2
 - https://www.thec2matrix.com/matrix
 - https://awesomeopensource.com/projects/c2
+
+[![Stargazers over time](https://starchart.cc//Goyk/C2.svg)](https://starchart.cc/Goyk/C2)
+
