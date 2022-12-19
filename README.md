@@ -210,6 +210,7 @@
 - [ ] https://github.com/bigBestWay/dnstunnel
 - [ ] https://github.com/pwn1sher/uuid-loader
 - [ ] https://github.com/h3xduck/TripleCross
+- [ ] https://github.com/capt-meelo/laZzzy
 
 五、Rust
 - [ ] https://github.com/postrequest/link
