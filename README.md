@@ -4,7 +4,7 @@
 
 本项目用来收集整理C2的相关内容，包括优秀的C2项目代码或优秀的控制思路等。RAT是一门古老的技术，C2是下一代的RAT！不想拿到全世界控制权限的黑客不是好黑客。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月19日，最近的一次更新时间为2023年5月17日。
+本项目创建于2021年8月19日，最近的一次更新时间为2023年6月6日。
 
 - [01-C2资源](https://github.com/Goyk/C2#01-c2%E8%B5%84%E6%BA%90)
 - [02-C2原理](https://github.com/Goyk/C2#02-c2%E5%8E%9F%E7%90%86)
@@ -119,6 +119,8 @@
 - [ ] https://github.com/xiao-zhu-zhu/noterce
 - [ ] https://github.com/LsdDance/Homo-Network
 - [ ] https://github.com/dobin/antnium
+- [ ] https://github.com/dollarkillerx/civetcat
+- [ ] https://github.com/hxdyjx/remote
 
 二、Python
 - [ ] https://github.com/FunnyWolf/Viper
@@ -186,6 +188,7 @@
 - [ ] https://github.com/screamz2k/PhoenixC2
 - [ ] https://github.com/felixweyne/imaginaryC2
 - [ ] https://github.com/XiaoliChan/RedCaddy
+- [ ] https://github.com/MiBaLToALeX/ShellOrd
 
 三、Java
 - [ ] https://github.com/Cobalt-Strike
@@ -227,6 +230,8 @@
 - [ ] https://github.com/TheD1rkMtr/GithubC2
 - [ ] https://github.com/SecurityNo1/Gh0st2023
 - [ ] https://github.com/DragoQCC/HardHatC2
+- [ ] https://github.com/Idov31/Nidhogg
+- [ ] https://github.com/Idov31/Sandman
 
 五、Rust
 - [ ] https://github.com/postrequest/link
