@@ -21,9 +21,11 @@
 一、基础书籍
 
 二、视频资源
+
 - [ ] https://www.youtube.com/watch?v=eTA7weRp2yk
 
 三、其他资源
+
 - [ ] https://github.com/ProfessionallyEvil/C4
 - [ ] https://github.com/JAYMONSECURITY/JMSec-Agent-RTO
 - [ ] https://github.com/timb-machine/linux-malware
@@ -38,6 +40,8 @@
 - C2是什么？远控是什么？流量隧道是什么？C2=远控+流量隧道？
 - 优秀的C2是什么？
 - Webshell管理工具算不算C2？可以执行命令的就算？
+- 理想的C2有什么特征？图形化/自带免杀/匿名隐藏/......
+- 远控只是C2的最基本的功能，未来的C2具备自我意识！
 
 ## 03-C2项目
 
@@ -51,6 +55,7 @@
 - https://github.com/killvxk/awesome-C2
 
 一、Golang
+
 - [x] https://github.com/TerminalJockey/Kudzu
 - [x] https://github.com/BishopFox/sliver
 - [x] https://github.com/Ne0nd0g/merlin
@@ -124,11 +129,13 @@
 - [ ] https://github.com/hxdyjx/remote
 - [ ] https://github.com/AuFeng111/linux_c2
 - [ ] https://github.com/gatariee/Winton
+- [ ] https://github.com/ClarkQAQ/nrat
+- [ ] https://github.com/iammaguire/MeetC2
 
 二、Python
+
 - [ ] https://github.com/FunnyWolf/Viper
 - [ ] https://github.com/its-a-feature/Mythic
-- [ ] https://github.com/p3nt4/Nuages
 - [ ] https://github.com/Arno0x/WSC2
 - [ ] https://github.com/r00t-3xp10it/venom
 - [ ] https://github.com/Coalfire-Research/Slackor
@@ -195,6 +202,7 @@
 - [ ] https://github.com/t3l3machus/Villain
 
 三、Java
+
 - [ ] https://github.com/Cobalt-Strike
 - [ ] https://github.com/LSTS/neptus
 - [ ] https://github.com/Ramos-dev/OSSTunnel
@@ -202,6 +210,7 @@
 - [ ] https://github.com/Kr9jd/HotRAT
 
 四、C&C#&C++
+
 - [ ] https://github.com/4g3nt47/Striker
 - [ ] https://github.com/rasta-mouse/SharpC2
 - [ ] https://github.com/sf197/Telegra_Csharp_C2
@@ -243,21 +252,29 @@
 - [ ] https://github.com/F-Society-Freaks/AndroSpy
 - [ ] https://github.com/DannyTheSloth/VanillaRAT
 - [ ] https://github.com/NYAN-x-CAT/Mass-RAT
+- [ ] https://github.com/p3nt4/Nuages
+- [ ] https://github.com/enkomio/AlanFramework
+- [x] https://github.com/HackerCalico/Magic_C2
+- [ ] https://github.com/iyzyi/MUA-Remote-Access-Trojan-V2
 
 五、Rust
+
 - [ ] https://github.com/postrequest/link
 - [ ] https://github.com/b23r0/Heroinn
 - [ ] https://github.com/b1tg/Ox-C2
 
 六、Nim
+
 - [ ] https://github.com/d4rckh/nimc2
 - [ ] https://github.com/chvancooten/NimPlant
-- [ ] https://github.com/itaymigdal/Nimbo-C2
+- [x] https://github.com/itaymigdal/Nimbo-C2
 
 七、PHP
+
 - [ ] https://github.com/EnginDemirbilek/NorthStarC2
 
 八、Powershell
+
 - [ ] https://github.com/ahmedkhlief/Ninja
 - [ ] https://github.com/BC-SECURITY/Empire
 - [ ] https://github.com/nettitude/PoshC2
@@ -268,6 +285,7 @@
 - [ ] https://github.com/JoelGMSec/PSRansom
 
 九、Other
+
 - [ ] https://github.com/rapid7/metasploit-framework
 - [ ] https://github.com/0x727/MetasploitCoop_0x727
 - [ ] https://github.com/Project-Prismatica/Prismatica
@@ -277,7 +295,6 @@
 - [ ] https://github.com/MisterTea/EternalTerminal
 - [ ] https://github.com/sneakerhax/C2PE
 - [ ] https://github.com/0x727/SchTask_0x727
-- [ ] https://github.com/enkomio/AlanFramework
 - [ ] https://github.com/preludeorg/community
 - [ ] https://github.com/Arno0x/DBC2
 - [ ] https://github.com/lcvvvv/backway
@@ -312,4 +329,3 @@
 - https://awesomeopensource.com/projects/c2
 
 [![Stargazers over time](https://starchart.cc//Goyk/C2.svg)](https://starchart.cc/Goyk/C2)
-
