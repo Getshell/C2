@@ -4,7 +4,7 @@
 
 本项目用来收集整理C2的相关内容，包括优秀的C2项目代码或优秀的控制思路等。RAT是一门古老的技术，C2是下一代的RAT！不想拿到全世界控制权限的黑客不是好黑客。作者：[0e0w](https://github.com/0e0w)
 
-本项目创建于2021年8月19日，最近的一次更新时间为2024年2月19日。
+本项目创建于2021年8月19日，最近的一次更新时间为2024年8月10日。
 
 - [01-C2资源](https://github.com/Goyk/C2#01-c2%E8%B5%84%E6%BA%90)
 - [02-C2原理](https://github.com/Goyk/C2#02-c2%E5%8E%9F%E7%90%86)
@@ -48,7 +48,6 @@
 - https://github.com/topics/rat
 - https://github.com/search?q=RAT
 - https://github.com/alphaSeclab/awesome-rat
-- https://github.com/r3nhat/GRAT2
 - https://github.com/killvxk/awesome-C2
 
 一、Golang
@@ -68,8 +67,8 @@
 - [ ] https://github.com/sensepost/godoh
 - [ ] https://github.com/cyberark/kubesploit
 - [ ] https://github.com/lu4p/ToRat
-- [ ] https://github.com/KCarretto/paragon
 - [ ] https://github.com/lu4p/ToRat_server
+- [ ] https://github.com/KCarretto/paragon
 - [ ] https://github.com/degenerat3/meteor
 - [ ] https://github.com/angus-y/PyIris-backdoor
 - [ ] https://github.com/aminaxx/bossbash
@@ -206,14 +205,15 @@
 - [ ] https://github.com/4g3nt47/Striker
 - [ ] https://github.com/rasta-mouse/SharpC2
 - [ ] https://github.com/sf197/Telegra_Csharp_C2
-- [ ] https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
+- [x] https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp
 - [ ] https://github.com/cobbr/Covenant
 - [ ] https://github.com/onSec-fr/Http-Asynchronous-Reverse-Shell
 - [ ] https://github.com/quasar/Quasar
 - [ ] https://github.com/fozavci/petaqc2
 - [ ] https://github.com/Raffy27/OrionPanel
 - [ ] https://github.com/uvzz/IERat
-- [ ] https://github.com/qwqdanchun/DcRat
+- [x] https://github.com/qwqdanchun/DcRat
+- [x] https://github.com/moom825/xeno-rat
 - [ ] https://github.com/ryhanson/ExternalC2
 - [ ] https://github.com/sogonsec/ViolentFungus-C2
 - [ ] https://github.com/xdnice/PCShare
@@ -239,6 +239,10 @@
 - [ ] https://github.com/Idov31/Sandman
 - [ ] https://github.com/satadriver/myLittleBear
 - [ ] https://github.com/DarkCoderSc/SharpFtpC2
+- [ ] https://github.com/r3nhat/GRAT2
+- [ ] https://github.com/F-Society-Freaks/AndroSpy
+- [ ] https://github.com/DannyTheSloth/VanillaRAT
+- [ ] https://github.com/NYAN-x-CAT/Mass-RAT
 
 五、Rust
 - [ ] https://github.com/postrequest/link
